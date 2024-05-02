@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.9.0"
+  },
+  "name": "chat_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyanshu K Sharma",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyanshuKSharma/Chat_Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PriyanshuKSharma/Chat_Bot/issues"
+  },
+  "homepage": "https://github.com/PriyanshuKSharma/Chat_Bot#readme"
+}
