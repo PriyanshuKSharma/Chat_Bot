@@ -1,1 +1,1 @@
-#Learning Generative AI using Gemini AI
+# Learning Generative AI using Gemini AI
