@@ -1,1 +1,1 @@
-# Chat_Bot
+#Learning Generative AI using Gemini AI
